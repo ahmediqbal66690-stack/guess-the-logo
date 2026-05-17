@@ -1,0 +1,8 @@
+{
+  "name": "LogoQuest: Zero-Lag Quiz",
+  "description": "A high-performance, neumorphic logo guessing game with real-time feedback, multiple game modes, and asynchronous image preloading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
